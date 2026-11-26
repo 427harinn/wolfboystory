@@ -1,0 +1,331 @@
+﻿{
+  
+  "name": "maou_short_04_tsuki_to_okami",
+  "maxBlock": 2,
+  "BPM": 158,
+  "offset": 0,
+  "notes": [
+    {
+      "LPB": 4,
+      "num": 0,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 255,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 271,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 287,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 303,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 319,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 335,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 352,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 360,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 368,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 383,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 399,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 415,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 431,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 447,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 463,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 479,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 487,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 495,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 511,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 527,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 543,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 559,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 575,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 592,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 608,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 623,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 640,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 649,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 655,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 671,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 679,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 688,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 703,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 712,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 720,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 735,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 751,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 767,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 784,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 799,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 815,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 831,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 847,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 863,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 864,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}
